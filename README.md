@@ -13,8 +13,6 @@ Find others who are using TypeScript at [our community page](https://www.typescr
 
 ## Installing
 
-For the latest stable version:
-
 ```bash
 npm install -D typescript
 ```
